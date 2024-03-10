@@ -1,4 +1,5 @@
-### Hi there 👋
+Hey!! My name is Pedro Grigolli 🤗
+I'm currently studying Computer Science, currently learning Java and OOP, with especial focus on the back-end.
 
 <!--
 **pgrigolli/pgrigolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
